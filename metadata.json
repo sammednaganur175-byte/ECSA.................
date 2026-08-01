@@ -1,0 +1,6 @@
+{
+  "name": "Dairy Khata",
+  "description": "Milk collection & dairy management system with real-time inventory tracking, customer milk logs, FAT/SNF rate calculator, and household milk bill generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
